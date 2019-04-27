@@ -1,7 +1,7 @@
 import requests
 import json
-posts_sol = 'https://hatchways.io/api/assessment/solution/posts'
-author_sol = 'https://hatchways.io/api/assessment/solution/authors'
+posts_sol = ''
+author_sol = ''
 
 posts_prod = 'http://127.0.0.1:5000/api/posts'
 author_prod = 'http://127.0.0.1:5000/api/authors'
